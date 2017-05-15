@@ -1,0 +1,1 @@
+INSERT INTO movies  (movie_nam,released_date,movie_id)  VALUES ( 'singam2','2017-03-27',4);

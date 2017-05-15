@@ -1,0 +1,1 @@
+UPDATE movies SET movie_nam = 'VIP' WHERE movie_id = 4;
